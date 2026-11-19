@@ -62,4 +62,6 @@ Murcia-based Mathematics student (University of Murcia, 2028) and full-stack eng
 
 ### My vision
 
-Over the next few years I want to move from solving problems to creating products: join an ambitious early-stage startup where hard technical problems are the product, learn how great companies are built from the inside, and eventually build my own.
+Spain produces world-class problem solvers every year in its science olympiads (informatics, mathematics, physics, chemistry), and most of that talent never gets pointed at real-world problems. In the coming years I want to build a consultancy that brings these people together and puts them to work on logistics: routing, scheduling, inventory and network design, where better algorithms translate directly into money and time saved.
+
+To get there, I first want to learn how great companies are built from the inside: join an ambitious early-stage startup where hard technical problems are the product, ship things people use, and learn how to sell, hire and lead. That's the gap between the olympiad kid who solves puzzles and the founder who solves problems, and it's the gap I want Exponential to help me close.
